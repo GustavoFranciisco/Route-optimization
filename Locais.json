@@ -1,0 +1,9 @@
+{
+    "São Paulo": {"Rio de Janeiro": 430, "Belo Horizonte": 586, "Curitiba": 408},
+    "Rio de Janeiro": {"São Paulo": 430, "Belo Horizonte": 441},
+    "Belo Horizonte": {"São Paulo": 586, "Rio de Janeiro": 441, "Brasília": 716},
+    "Curitiba": {"São Paulo": 408, "Florianópolis": 300},
+    "Florianópolis": {"Curitiba": 300, "Porto Alegre": 476},
+    "Porto Alegre": {"Florianópolis": 476},
+    "Brasília": {"Belo Horizonte": 716}
+}
